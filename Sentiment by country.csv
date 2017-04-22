@@ -1,0 +1,219 @@
+tweetsbiaggr.country,tweetsbiaggr.sentiment,tweetsbiaggr.tweet_count
+NULL,NULL,0
+NULL,negative,2479
+NULL,neutral,13508
+NULL,positive,6348
+,negative,2
+,neutral,43
+,positive,6
+AFGHANISTAN,neutral,10
+ARGENTINA,negative,42
+ARGENTINA,neutral,278
+ARGENTINA,positive,49
+ARMENIA,neutral,4
+AUSTRALIA,negative,25
+AUSTRALIA,neutral,78
+AUSTRALIA,positive,47
+AUSTRIA,negative,2
+AUSTRIA,neutral,4
+AUSTRIA,positive,4
+BANGLADESH,negative,2
+BANGLADESH,neutral,2
+BELARUS,neutral,4
+BELGIUM,negative,3
+BELGIUM,neutral,33
+BELGIUM,positive,3
+BOLIVIA,negative,8
+BOLIVIA,neutral,54
+BOLIVIA,positive,10
+BOSNIA AND HERZEGOWINA,neutral,2
+BOSNIA AND HERZEGOWINA,positive,7
+BRAZIL,negative,163
+BRAZIL,neutral,828
+BRAZIL,positive,163
+BULGARIA,negative,2
+BULGARIA,neutral,2
+BULGARIA,positive,1
+CANADA,negative,410
+CANADA,neutral,2063
+CANADA,positive,1162
+CAPE VERDE,neutral,1
+CHILE,negative,131
+CHILE,neutral,470
+CHILE,positive,113
+CHINA,negative,59
+CHINA,neutral,212
+CHINA,positive,80
+COLOMBIA,negative,25
+COLOMBIA,neutral,149
+COLOMBIA,positive,26
+CROATIA,neutral,2
+CZECH REPUBLIC,neutral,5
+CZECH REPUBLIC,positive,2
+DENMARK,negative,2
+DENMARK,neutral,5
+DENMARK,positive,1
+ECUADOR,negative,599
+ECUADOR,neutral,3074
+ECUADOR,positive,1613
+EGYPT,negative,7
+EGYPT,neutral,21
+EGYPT,positive,14
+ESTONIA,neutral,1
+FINLAND,negative,1
+FINLAND,neutral,6
+FINLAND,positive,9
+FRANCE,negative,38
+FRANCE,neutral,213
+FRANCE,positive,53
+GERMANY,negative,26
+GERMANY,neutral,108
+GERMANY,positive,34
+GREECE,negative,79
+GREECE,neutral,304
+GREECE,positive,71
+GREENLAND,negative,88
+GREENLAND,neutral,320
+GREENLAND,positive,93
+GUAM,neutral,6
+GUAM,positive,4
+GUYANA,neutral,5
+GUYANA,positive,2
+HONG KONG,negative,23
+HONG KONG,neutral,62
+HONG KONG,positive,25
+HUNGARY,neutral,6
+HUNGARY,positive,3
+INDIA,negative,18
+INDIA,neutral,68
+INDIA,positive,37
+INDONESIA,negative,117
+INDONESIA,neutral,696
+INDONESIA,positive,60
+IRAN (ISLAMIC REPUBLIC OF),negative,2
+IRAN (ISLAMIC REPUBLIC OF),neutral,9
+IRAN (ISLAMIC REPUBLIC OF),positive,2
+IRAQ,negative,9
+IRAQ,neutral,58
+IRAQ,positive,25
+IRELAND,negative,9
+IRELAND,neutral,33
+IRELAND,positive,31
+ISRAEL,negative,1
+ISRAEL,neutral,4
+ISRAEL,positive,3
+ITALY,negative,25
+ITALY,neutral,59
+ITALY,positive,19
+JAPAN,negative,10
+JAPAN,neutral,68
+JAPAN,positive,8
+KAZAKHSTAN,neutral,2
+KAZAKHSTAN,positive,3
+KENYA,negative,4
+KENYA,neutral,11
+KENYA,positive,5
+KOREA (S),negative,8
+KOREA (S),neutral,21
+KOREA (S),positive,2
+KUWAIT,negative,8
+KUWAIT,neutral,34
+KUWAIT,positive,24
+LATVIA,neutral,5
+LATVIA,positive,2
+LIBERIA,negative,1
+LIBERIA,neutral,1
+LITHUANIA,negative,1
+LITHUANIA,neutral,5
+LITHUANIA,positive,3
+MALAYSIA,negative,41
+MALAYSIA,neutral,134
+MALAYSIA,positive,49
+MEXICO,negative,162
+MEXICO,neutral,594
+MEXICO,positive,112
+MONGOLIA,neutral,3
+MOROCCO,negative,38
+MOROCCO,neutral,139
+MOROCCO,positive,109
+NETHERLANDS,negative,125
+NETHERLANDS,neutral,439
+NETHERLANDS,positive,210
+NEW ZEALAND,negative,7
+NEW ZEALAND,neutral,25
+NEW ZEALAND,positive,22
+NIGERIA,negative,7
+NIGERIA,neutral,27
+NIGERIA,positive,15
+OMAN,neutral,6
+PAKISTAN,negative,12
+PAKISTAN,neutral,14
+PAKISTAN,positive,10
+PERU,negative,7
+PERU,neutral,43
+PERU,positive,12
+POLAND,negative,1
+POLAND,neutral,3
+POLAND,positive,2
+PORTUGAL,negative,5
+PORTUGAL,neutral,14
+PORTUGAL,positive,8
+ROMANIA,negative,5
+ROMANIA,neutral,2
+ROMANIA,positive,4
+RUSSIAN FEDERATION,negative,6
+RUSSIAN FEDERATION,neutral,61
+RUSSIAN FEDERATION,positive,21
+SAUDI ARABIA,negative,2
+SAUDI ARABIA,neutral,21
+SAUDI ARABIA,positive,14
+SINGAPORE,negative,32
+SINGAPORE,neutral,105
+SINGAPORE,positive,61
+SLOVAKIA,neutral,2
+SLOVAKIA,positive,4
+SLOVENIA,negative,1
+SOLOMON ISLANDS,neutral,1
+SOUTH AFRICA,negative,7
+SOUTH AFRICA,neutral,16
+SOUTH AFRICA,positive,21
+SPAIN,negative,58
+SPAIN,neutral,229
+SPAIN,positive,40
+SRI LANKA,neutral,4
+SWEDEN,negative,3
+SWEDEN,neutral,11
+SWEDEN,positive,11
+TAIWAN,negative,8
+TAIWAN,neutral,8
+TAIWAN,positive,5
+THAILAND,negative,95
+THAILAND,neutral,924
+THAILAND,positive,118
+TONGA,negative,1
+TONGA,neutral,5
+TONGA,positive,2
+TURKEY,negative,3
+TURKEY,neutral,50
+TURKEY,positive,3
+UKRAINE,negative,1
+UKRAINE,neutral,18
+UKRAINE,positive,7
+UNITED ARAB EMIRATES,negative,26
+UNITED ARAB EMIRATES,neutral,114
+UNITED ARAB EMIRATES,positive,84
+UNITED KINGDOM,negative,227
+UNITED KINGDOM,neutral,438
+UNITED KINGDOM,positive,510
+UNITED STATES,negative,5091
+UNITED STATES,neutral,25542
+UNITED STATES,positive,12870
+UZBEKISTAN,neutral,1
+VENEZUELA,negative,66
+VENEZUELA,neutral,606
+VENEZUELA,positive,110
+VIET NAM,negative,1
+VIET NAM,neutral,5
+VIET NAM,positive,1
+ZIMBABWE,neutral,4
+ZIMBABWE,positive,2
