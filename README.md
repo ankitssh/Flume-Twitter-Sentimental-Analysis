@@ -11,7 +11,11 @@ Results can be seen in the excel files and png images.
 <b>Tools used</b>
 * VMWare Player
 * Cloudera quickstart VM (CentOS)
-* Hive
-* Sqoop
-* Flume
-* Tableau
+* Hive https://hive.apache.org/
+
+* Sqoop  sqoop.apache.org/
+
+* Flume https://flume.apache.org/
+
+* Tableau https://community.tableau.com/thread/140752
+
